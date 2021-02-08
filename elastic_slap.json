@@ -1,0 +1,26 @@
+{
+
+	"bodies": [{
+		"step": "A charging animation software shortcut command autolation is used."
+	}, {
+		"step": "When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
+	}, {
+		"step": "When the data line is pulled out or removed from the wireless charging panel, the program will exit, which convernient and practical"
+	
+	}, {
+		"step": "You will nedd to pass this step verification, it will take few seconds from your time."
+	
+	}
+
+],
+
+	"admob_banner": "123",
+	"admob_inter": "123",
+
+	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+	"whichAds": 0
+
+
+}
