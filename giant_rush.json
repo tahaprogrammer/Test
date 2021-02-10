@@ -14,13 +14,13 @@
 
 ],
 
-	"admob_banner": "123",
-	"admob_inter": "123",
+	"admob_banner": "ca-app-pub-9244793037541944/8606076117",
+	"admob_inter": "ca-app-pub-9244793037541944/1794816257",
 
 	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-	"whichAds": 1
+	"whichAds": 0
 
 
 }
