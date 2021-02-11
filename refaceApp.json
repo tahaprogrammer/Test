@@ -1,24 +1,29 @@
 {
 
 	"bodies": [{
-		"step": "A charging animation software shortcut command autolation is used."
-	}, {
-		"step": "When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
-	}, {
-		"step": "When the data line is pulled out or removed from the wireless charging panel, the program will exit, which convernient and practical"
-	
-	}, {
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time."
-	
-	}
+			"step": "A charging animation software shortcut command autolation is used."
+		}, {
+			"step": "When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
+		}, {
+			"step": "When the data line is pulled out or removed from the wireless charging panel, the program will exit, which convernient and practical"
 
-],
+		}, {
+			"step": "You will nedd to pass this step verification, it will take few seconds from your time."
+
+		}
+
+	],
 
 	"admob_banner": "ca-app-pub-9244793037541944/4995694668",
 	"admob_inter": "ca-app-pub-9244793037541944/7238714620",
 
 	"facebook_banner": "443237267091120_443237490424431",
 	"facebook_inter": "443237267091120_443237887091058",
+
+	"unityGameID": "4009189",
+	"placementIDInterstitial": "Interstitial",
+	"placementIDBanner": "Banner",
+
 
 	"whichAds": 1
 
