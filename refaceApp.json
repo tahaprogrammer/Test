@@ -14,8 +14,8 @@
 
 	],
 
-	"admob_banner": "ca-app-pub-9244793037541944/4995694668",
-	"admob_inter": "ca-app-pub-9244793037541944/7238714620",
+	"admob_banner": "ca-app-pub-8374016708094300/9820484237",
+	"admob_inter": "ca-app-pub-8374016708094300/6472088555",
 
 	"facebook_banner": "443237267091120_443237490424431",
 	"facebook_inter": "443237267091120_443237887091058",
@@ -25,7 +25,7 @@
 	"placementIDBanner": "Banner",
 
 
-	"whichAds": 1
+	"whichAds": 0
 
 
 }
