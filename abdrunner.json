@@ -17,8 +17,8 @@
 	"admob_banner": "ca-app-pub-8374016708094300/8765173424",
 	"admob_inter": "ca-app-pub-8374016708094300/6139010085",
 
-	"facebook_banner": "",
-	"facebook_inter": "",
+	"facebook_banner": "440334930564568_440335127231215",
+	"facebook_inter": "440334930564568_440335670564494",
 
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
@@ -30,7 +30,7 @@
 	"popAppIsActive": false,
 
 
-	"whichAds": 0
+	"whichAds": 1
 
 
 }
