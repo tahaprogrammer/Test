@@ -14,8 +14,8 @@
 
 	],
 
-	"admob_banner": "ca-app-pub-8374016708094300/5872891558",
-	"admob_inter": "ca-app-pub-8374016708094300/3246728215",
+	"admob_banner": "ca-app-pub-9244793037541944/6810794046",
+	"admob_inter": "ca-app-pub-9244793037541944/4184630706",
 
 	"facebook_banner": "310884190576699_310884457243339",
 	"facebook_inter": "310884190576699_310885000576618",
@@ -30,7 +30,7 @@
 	"popAppIsActive": false,
 
 
-	"whichAds": 1
+	"whichAds": 0
 
 
 }
