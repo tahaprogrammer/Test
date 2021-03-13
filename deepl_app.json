@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+	"admob_banner": "544/6300978111",
+	"admob_inter": "033173712",
 
 	"facebook_banner": "",
 	"facebook_inter": "",
@@ -14,16 +14,16 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"MoreApps" : "https://play.google.com/store/apps/dev?id=6536898862803116631",
-        "PrivacyPolicy" : "https://www.facebook.com/",
+	"MoreApps" : "h3116631",
+        "PrivacyPolicy" : "com/",
 	"whichAds": 0,
 	
-	"url_1":"https://www.gmail.com/",
-	"url_2":"http://yahoo.com/",
-	"url_3":"https://outlook.live.com/owa/",
+	"url_1":"https://github.com/",
+	"url_2":"https://github.com/",
+	"url_3":"https://github.com/",
 	
-	"title_1":"Gmail",
-	"title_2":"Yahoo",
-	"title_3":"Outlook"
+	"title_1":"Github1",
+	"title_2":"Github2",
+	"title_3":"Github3"
 
 }
