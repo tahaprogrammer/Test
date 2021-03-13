@@ -26,7 +26,7 @@
 	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"whichAds": 1,
+	"whichAds": 0,
 	
 	"link":"https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldFit",
 	"status":false
