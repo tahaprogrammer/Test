@@ -1,0 +1,36 @@
+{
+
+	"bodies": [{
+			"step": "Hello This is Step One, This App is for all ages, Well This Step One we just show you an introduction for the Game you can go to the step Two For more Actions."
+		}, {
+			"step": "Hi Again, This is Step Two , Well Welcome into this Game and we just wanna to thank you for you support and your installation. Next Step is for instruction the game."
+		}, {
+			"step": "HappyMod is a best guide for gamers who played HappyMod, that can play with your friends and family to enjoy in android HappyMod adventures games.There are also cheats and secrets items to acquire while play HappyMod, as well as some nice achievements and trophies to unlock. All game guide are in high quality HD videos with nice graphics and clean user interface. Hopefully this guide will lead you towards your victory and complete all the mission in Offroad Jeep Simulator stick.Be a hard working HappyMod and work around town in various roles to earn cash to own properties and purchase/customise new clothes and vehicles inHappyMod.Features caracteristique- This guide for HappyMod can help you in gameplay- This app is for entairtenement and gamers.- This app required internet connection."
+
+		}, {
+			"step": "Well This is All We Want to share with you, you can share this app with your friends , and thank you again for the support."
+
+		}
+
+	],
+
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+
+	"facebook_banner": "275046447517876_275046624184525",
+	"facebook_inter": "275046447517876_275047010851153",
+
+	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
+
+	"popAppLink": "h",
+	"popAppName": "Les De",
+	"popAppImage": "rw",
+	"popAppPackage": "c21",
+	"URL_APP": "s1=",
+	"popAppIsActive": false,
+
+
+	"whichAds": 0
+
+
+}
