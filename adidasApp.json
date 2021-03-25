@@ -18,10 +18,8 @@
     "PrivacyPolicy" : "com/",
 	"whichAds": 0,
 	
-	"url_1":"https://mail.google.com/",
+	"url":"https://mail.google.com/",
 	
-	"title_1":"Gmail",
-	"title_2":"Outlook",
-	"title_3":"Yahoo"
+	"title":"Gmail",
 
 }
