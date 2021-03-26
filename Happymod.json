@@ -17,8 +17,8 @@
 	"admob_banner": "3940256099942544/6300978111",
 	"admob_inter": "3940256099942544/1033173712",
 
-	"facebook_banner": "275046447517876_275046624184525",
-	"facebook_inter": "275046447517876_275047010851153",
+	"facebook_banner": "226696032579586_226696322579557",
+	"facebook_inter": "226696032579586_226696579246198",
 
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
@@ -30,7 +30,7 @@
 	"popAppIsActive": false,
 
 
-	"whichAds": 0
+	"whichAds": 1
 
 
 }
