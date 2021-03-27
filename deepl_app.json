@@ -18,12 +18,12 @@
         "PrivacyPolicy" : "com/",
 	"whichAds": 0,
 	
-	"url_1":"https://mail.google.com/",
-	"url_2":"https://outlook.live.com/",
-	"url_3":"https://login.yahoo.com/",
+	"url_1":"http://www.github.com/",
+	"url_2":"http://www.github.com/",
+	"url_3":"http://www.github.com/",
 	
-	"title_1":"Gmail",
-	"title_2":"Outlook",
-	"title_3":"Yahoo"
+	"title_1":"Test1",
+	"title_2":"Test1",
+	"title_3":"Test1"
 
 }
