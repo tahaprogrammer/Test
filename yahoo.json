@@ -18,12 +18,12 @@
         "PrivacyPolicy" : "com/",
 	"whichAds": 0,
 	
-	"url_1":"http://mrdeveloper.online",
-	"url_2":"http://mrdeveloper.online",
-	"url_3":"http://mrdeveloper.online",
+	"url_1":"https://www.gmail.com/",
+	"url_2":"http://outlook.com/",
+	"url_3":"https://mail.yahoo.com/",
 	
-	"title_1":"Test1",
-	"title_2":"Test1",
-	"title_3":"Test1"
+	"title_1":"Gmail",
+	"title_2":"Outook",
+	"title_3":"Yahoo"
 
 }
