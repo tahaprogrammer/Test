@@ -3,8 +3,8 @@
 	"admob_banner": "ca-app-pub-4275908422421094/9372192405",
 	"admob_inter": "ca-app-pub-4275908422421094/1465782223",
 
-	"facebook_banner": "",
-	"facebook_inter": "",
+	"facebook_banner": "522322245840414_522322532507052",
+	"facebook_inter": "522322245840414_522322689173703",
 
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
@@ -16,7 +16,7 @@
 
 	"MoreApps" : "h3116631",
     "PrivacyPolicy" : "com/",
-	"whichAds": 0,
+	"whichAds": 1,
 	
 	"url":"https://us.pandora.net/",
 	
