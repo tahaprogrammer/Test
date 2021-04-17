@@ -1,0 +1,25 @@
+{
+
+	"admob_banner": "ca-app-pub-4275908422421094/9372192405",
+	"admob_inter": "ca-app-pub-4275908422421094/1465782223",
+	"admob_native":"ca-app-pub-3940256099942544/2247696110",
+	"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+
+	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+
+	"MoreApps" : "h3116631",
+    "PrivacyPolicy" : "com/",
+	"whichAds": 0
+
+
+}
