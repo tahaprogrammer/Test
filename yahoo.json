@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+	"admob_banner": "ca-app-pub-8372128406964894/5792417651",
+	"admob_inter": "ca-app-pub-8372128406964894/7409925113",
 
 	"facebook_banner": "1136260730175624_1136260966842267",
 	"facebook_inter": "1136260730175624_1136261093508921",
@@ -16,7 +16,7 @@
 
 	"MoreApps" : "h3116631",
         "PrivacyPolicy" : "com/",
-	"whichAds": 1,
+	"whichAds": 0,
 	
 	"url_1":"https://www.gmail.com/",
 	"url_2":"https://outlook.com/",
