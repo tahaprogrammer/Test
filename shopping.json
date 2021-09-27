@@ -1,0 +1,24 @@
+{
+
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "fc8adac9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+    "whichAds": 1,
+
+	"MoreApps" : "h3116631",
+    "PrivacyPolicy" : "com/",
+	
+	"url":"https://www.storysaver.net/",
+	"title":"Story Saver",
+
+    "popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false
+
+}
