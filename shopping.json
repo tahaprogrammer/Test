@@ -7,15 +7,15 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-    "whichAds": 1,
+	"whichAds": 0,
 
-	"MoreApps" : "h3116631",
-    "PrivacyPolicy" : "com/",
-	
-	"url":"https://www.storysaver.net/",
-	"title":"Story Saver",
+	"MoreApps": "h3116631",
+	"PrivacyPolicy": "com/",
 
-    "popAppLink": "htp",
+	"url": "https://www.storysaver.net/",
+	"title": "Story Saver",
+
+	"popAppLink": "htp",
 	"popAppName": "Gap",
 	"popAppImage": "h2.png",
 	"popAppPackage": "cp",
