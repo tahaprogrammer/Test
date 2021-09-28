@@ -3,6 +3,10 @@
 	"admob_banner": "ca-app-pub-8372128406964894/5792417651",
 	"admob_inter": "ca-app-pub-8372128406964894/7409925113",
 
+	"APP_KEY": "fc8adac9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
 	"facebook_banner": "522322245840414_522322532507052",
 	"facebook_inter": "522322245840414_522322689173703",
 
@@ -14,12 +18,12 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"MoreApps" : "h3116631",
-    "PrivacyPolicy" : "com/",
+	"MoreApps": "h3116631",
+	"PrivacyPolicy": "com/",
 	"whichAds": 1,
-	
-	"url":"https://us.pandora.net/",
-	
-	"title":"Pandora"
+
+	"url": "https://us.pandora.net/",
+
+	"title": "Pandora"
 
 }
