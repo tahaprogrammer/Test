@@ -3,7 +3,7 @@
 	"admob_banner": "ca-app-pub-8372128406964894/5792417651",
 	"admob_inter": "ca-app-pub-8372128406964894/7409925113",
 
-	"APP_KEY": "fc8ad9",
+	"APP_KEY": "11563fd95",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,11 +12,11 @@
 
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.pandora.shoppingApp",
+	"popAppName": "Get New Version Pandora 2021",
+	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/pandoraImage.png",
 	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "com/",
