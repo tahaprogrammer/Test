@@ -1,0 +1,74 @@
+{
+
+
+	"data":[
+				{
+					"text":"Tv Details For1",
+					"color":"4EA6EC",
+					"body":"Amy normally hated Monday mornings, but this year was different. Kamal was in her art class and she liked Kamal. She was waiting outside the classroom when her friend Tara arrived.“Hi Amy! Your mum sent me a text. You forgot your inhaler. Why don’t you turn your phone on?” Amy didn’t like technology. She never sent text messages and she hated Facebook too.“Did Kamal ask you to the disco?” Tara was Amy’s best friend, and she wanted to know everything that was happening in Amy’s life. “I don’t think he likes me,” said Amy. “And I never see him alone. He’s always with Grant.” Amy and Tara didn’t like Grant.",
+					"picture":"http://mrdeveloper.online/background.jpg"
+				},
+				{
+					"text":"Tv Details For2",
+					"color":"FF5722",
+					"body":"Amy normally hated Monday mornings, but this year was different. Kamal was in her art class and she liked Kamal. She was waiting outside the classroom when her friend Tara arrived.“Hi Amy! Your mum sent me a text. You forgot your inhaler. Why don’t you turn your phone on?” Amy didn’t like technology. She never sent text messages and she hated Facebook too.“Did Kamal ask you to the disco?” Tara was Amy’s best friend, and she wanted to know everything that was happening in Amy’s life. “I don’t think he likes me,” said Amy. “And I never see him alone. He’s always with Grant.” Amy and Tara didn’t like Grant.",
+					"picture":"http://mrdeveloper.online/background.jpg"
+				},
+				{
+					"text":"Tv Details For3",
+					"color":"BF28D8",
+					"body":"Amy normally hated Monday mornings, but this year was different. Kamal was in her art class and she liked Kamal. She was waiting outside the classroom when her friend Tara arrived.“Hi Amy! Your mum sent me a text. You forgot your inhaler. Why don’t you turn your phone on?” Amy didn’t like technology. She never sent text messages and she hated Facebook too.“Did Kamal ask you to the disco?” Tara was Amy’s best friend, and she wanted to know everything that was happening in Amy’s life. “I don’t think he likes me,” said Amy. “And I never see him alone. He’s always with Grant.” Amy and Tara didn’t like Grant.",
+					"picture":"http://mrdeveloper.online/background.jpg"
+				},
+				{
+					"text":"Tv Details For4",
+					"color":"BF28D8",
+					"body":"Amy normally hated Monday mornings, but this year was different. Kamal was in her art class and she liked Kamal. She was waiting outside the classroom when her friend Tara arrived.“Hi Amy! Your mum sent me a text. You forgot your inhaler. Why don’t you turn your phone on?” Amy didn’t like technology. She never sent text messages and she hated Facebook too.“Did Kamal ask you to the disco?” Tara was Amy’s best friend, and she wanted to know everything that was happening in Amy’s life. “I don’t think he likes me,” said Amy. “And I never see him alone. He’s always with Grant.” Amy and Tara didn’t like Grant.",
+					"picture":"http://mrdeveloper.online/background.jpg"
+				},
+				{
+					"text":"Tv Details For5",
+					"color":"BF28D8",
+					"body":"Amy normally hated Monday mornings, but this year was different. Kamal was in her art class and she liked Kamal. She was waiting outside the classroom when her friend Tara arrived.“Hi Amy! Your mum sent me a text. You forgot your inhaler. Why don’t you turn your phone on?” Amy didn’t like technology. She never sent text messages and she hated Facebook too.“Did Kamal ask you to the disco?” Tara was Amy’s best friend, and she wanted to know everything that was happening in Amy’s life. “I don’t think he likes me,” said Amy. “And I never see him alone. He’s always with Grant.” Amy and Tara didn’t like Grant.",
+					"picture":"http://mrdeveloper.online/background.jpg"
+				},
+				{
+					"text":"Tv Details For6",
+					"color":"BF28D8",
+					"body":"Amy normally hated Monday mornings, but this year was different. Kamal was in her art class and she liked Kamal. She was waiting outside the classroom when her friend Tara arrived.“Hi Amy! Your mum sent me a text. You forgot your inhaler. Why don’t you turn your phone on?” Amy didn’t like technology. She never sent text messages and she hated Facebook too.“Did Kamal ask you to the disco?” Tara was Amy’s best friend, and she wanted to know everything that was happening in Amy’s life. “I don’t think he likes me,” said Amy. “And I never see him alone. He’s always with Grant.” Amy and Tara didn’t like Grant.",
+					"picture":"http://mrdeveloper.online/background.jpg"
+				}
+	],
+
+	"more_apps":[
+					{
+						"picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/599px-Instagram_icon.png",
+						"link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+						"name":"Instagram"
+					},{
+						"picture":"https://i.pinimg.com/originals/34/50/9a/34509a05557bf30853af477a83b7c7bb.png",
+						"link":"https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+						"name":"TikTok"
+					},{
+						"picture":"https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png",
+						"link":"https://play.google.com/store/apps/details?id=com.whatsapp",
+						"name":"Whatssap"
+					},{
+						"picture":"https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-square2-512.png",
+						"link":"https://play.google.com/store/apps/details?id=com.facebook.lite",
+						"name":"Facebook"
+					}
+	],
+
+	"banner":"ca-app-pub-3940256099942544/6300978111",
+	"interstitial":"ca-app-pub-3940256099942544/1033173712",
+	"native":"ca-app-pub-3940256099942544/2247696110",
+	"rate":true,
+	"startapp_id":"207157648",
+
+
+	"name_pop_ads":"You Can Install This Amzing App!",
+	"picture_pop_ads":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png",
+	"link_pop_ads":"https://www.instagram.com/",
+	"active_pop_ads" : true
+}
