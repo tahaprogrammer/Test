@@ -1,38 +1,33 @@
 {
 
-	"bodies": [{
-		"title": "About App",
-		"step": "A charging animation software shortcut command autolation is used."
-	}, {
-		"title": "What's new",
-		"step": "When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
-	}, {
-		"title": "Integrated function",
-		"step": "When the data line is pulled out or removed from the wireless charging panel, the program will exit, which convernient and practical"
+	"admob_banner": "ca-app-pub-394025609544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942033173712",
 
-	}, {
-		"title": "Download for android",
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time."
+	"APP_KEY": "fc8adac9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	}, {
-		"title": "App User Guide",
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time."
-	}, {
-		"title": "App Last One",
-		"step": "You will nedd to pass this step verification, it will take few seconds from your time.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display."
-	}],
-
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
-	"admob_native":"ca-app-pub-3940256099942544/2247696110",
-
-	"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"whichAds": 0,
-	
-	"link":"https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldFit",
-	"status":false
 
+	"MoreApps": "h3116631",
+	"PrivacyPolicy": "com/",
+
+	"button1": "Button 1",
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+
+	"BUTTON_NAME_1": "Test 1",
+	"BUTTON_NAME_2": "",
+	"BUTTON_NAME_3": "Developer 3",
+	"BUTTON_NAME_4": "",
+
+	"BUTTON_URL_1": "https://github.com/tahaprogrammer",
+	"BUTTON_URL_2": "https://github.com/tahaprogrammer",
+	"BUTTON_URL_3": "https://github.com/tahaprogrammer",
+	"BUTTON_URL_4": "https://github.com/tahaprogrammer"
 
 }
