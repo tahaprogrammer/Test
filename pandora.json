@@ -1,7 +1,7 @@
 {
 
-	"admob_banner": "ca-app-pub-8372128406964894/5792417651",
-	"admob_inter": "ca-app-pub-8372128406964894/7409925113",
+	"admob_banner": "111",
+	"admob_inter": "ca-app-pub-3397219953331915/9963578440",
 
 	"APP_KEY": "11563fd95",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -16,7 +16,7 @@
 	"popAppName": "Get New Version Pandora 2021",
 	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/pandoraImage.png",
 	"popAppPackage": "cp",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "com/",
