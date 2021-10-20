@@ -1,9 +1,9 @@
 {
 
-	"admob_banner": "ca-app-pub-394025609544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942033173712",
+	"admob_banner": "ca-app-pub-3940256042544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099544/1033173712",
 
-	"APP_KEY": "fc8adac9",
+	"APP_KEY": "fc8ac9",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,22 +12,15 @@
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "com/",
 
-	"button1": "Button 1",
-
 	"popAppLink": "htp",
 	"popAppName": "Gap",
 	"popAppImage": "h2.png",
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Test 1",
-	"BUTTON_NAME_2": "",
-	"BUTTON_NAME_3": "Developer 3",
-	"BUTTON_NAME_4": "",
+	"BUTTON_NAME_1": "Site 1",
+	"BUTTON_NAME_2": "Site 2",
 
-	"BUTTON_URL_1": "https://github.com/tahaprogrammer",
-	"BUTTON_URL_2": "https://github.com/tahaprogrammer",
-	"BUTTON_URL_3": "https://github.com/tahaprogrammer",
-	"BUTTON_URL_4": "https://github.com/tahaprogrammer"
+	"BUTTON_URL": "https://www.zedge.net/find/wallpapers/squid%20game"
 
 }
