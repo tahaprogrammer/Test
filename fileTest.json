@@ -69,7 +69,8 @@
 	"popAppIsActive": true,
 	
 	"DetailImageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
-	"DetailImageLink":"https://www.youtube.com/"
+	"DetailImageLink":"https://www.youtube.com/",
+	"DetailImageisActivated":true
 
 
 
