@@ -53,7 +53,13 @@
 						"imageLink":""
 					}
 
-		]
+		],
+	
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false
 
 
 
