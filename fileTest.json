@@ -16,6 +16,7 @@
 						"title":"",
 						"description":"",
 						"imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
+						"imageResource":"",
 						"imageLink":"https://www.facebook.com/"
 					},
 					{
@@ -30,6 +31,7 @@
 						"isNative":true,
 						"title":"",
 						"description":"",
+						"imageResource":"",
 						"imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 						"imageLink":"https://www.facebook.com/"
 					},
@@ -45,6 +47,7 @@
 						"isNative":true,
 						"title":"",
 						"description":"",
+						"imageResource":"",
 						"imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 						"imageLink":"https://www.facebook.com/"
 					},
