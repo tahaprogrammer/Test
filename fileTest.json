@@ -62,11 +62,14 @@
 
 		],
 	
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+	"popAppName": "Free Fire",
+	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
+	"popAppPackage": "com.dts.freefireth",
+	"popAppIsActive": true,
+	
+	"DetailImageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
+	"DetailImageLink":"https://www.youtube.com/"
 
 
 
