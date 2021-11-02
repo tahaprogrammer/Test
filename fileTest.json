@@ -60,9 +60,9 @@
 	"APPLOVIN_BANNER_ID": "",
 	"APPLOVIN_INTERSTITIAL_ID": "",
 
-	"UNITY_BANNER": "",
-	"UNITY_INTERSTITIAL": "",
-	"UNITY_GAME_ID": "",
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3364199",
 	"UNITY_TEST_MODE": true,
 
 	"SwitchAds": 0
