@@ -52,8 +52,17 @@
 	"DetailImageisActivated": true,
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
-	"NativeMenuImageLink": "https://www.facebook.com/"
+	"NativeMenuImageLink": "https://www.facebook.com/",
 
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
+	"APPLOVIN_BANNER_ID": "",
+	"APPLOVIN_INTERSTITIAL_ID": "",
+
+	"UNITY_BANNER": "",
+	"UNITY_INTERSTITIAL": "",
+	"UNITY_GAME_ID": "",
+	"UNITY_TEST_MODE": true
 
 }
