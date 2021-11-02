@@ -63,6 +63,8 @@
 	"UNITY_BANNER": "",
 	"UNITY_INTERSTITIAL": "",
 	"UNITY_GAME_ID": "",
-	"UNITY_TEST_MODE": true
+	"UNITY_TEST_MODE": true,
+
+	"SwitchAds": 0
 
 }
