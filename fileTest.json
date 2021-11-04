@@ -10,6 +10,12 @@
 		        "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg"
 		},
 		{
+			"isNative": true,
+			"title": "",
+			"description": "",
+		        "imageUrl":""
+		},
+		{
 			"isNative": false,
 			"title": "2 - Before You StartMake",
 			"description": "Attention Game Lovers! Your Favourite squid game is here.Knock Down your competitors in squid game.Enjoy Real Fun Of Squid Game by following the instruction and dont be late else you are dead.If you want to get prizes dont be eliminated from squid game Challenge.How to Play Squid Games - The Game.1:- Follow Red & Green Lights2:- When Green light is On Run..3:- When Red Light is On Stop Immediately4:- Reach the winning Point with in given time.Squid Game is the best Runner Game You ever Played.So what you are waiting for? Download Squid Game and Challenge yourself.Hint!Focus on Gameplay music.........",
@@ -38,7 +44,7 @@
 
 	"DetailImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 	"DetailImageLink": "https://www.youtube.com/",
-	"DetailImageisActivated": false,
+	"DetailImageisActivated": true,
 
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 	"NativeMenuImageLink": "https://www.facebook.com/",
