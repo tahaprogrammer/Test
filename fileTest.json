@@ -43,8 +43,8 @@
 	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 	"NativeMenuImageLink": "https://www.facebook.com/",
 
-	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
-	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+	"ADMOB_BANNER": "ca-app-pub-39456099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-39406099942544/1033173712",
 
 	"APPLOVIN_BANNER_ID": "",
 	"APPLOVIN_INTERSTITIAL_ID": "",
@@ -54,6 +54,6 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2
+	"SwitchAds": 0
 
 }
