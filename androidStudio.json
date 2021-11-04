@@ -1,4 +1,22 @@
 {
+	
+	"data":[
+		
+		{
+		  "title":"Whatssap",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+		},{
+		  "title":"Facebook",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s2.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+		},{
+		  "title":"Instagram",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s3.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.instagram.android"
+		}
+	
+	],
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
