@@ -64,6 +64,6 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"SwitchAds": 0
+	"SwitchAds": 1
 
 }
