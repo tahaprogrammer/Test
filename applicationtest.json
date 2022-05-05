@@ -1,0 +1,17 @@
+{
+	
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "14670f8f1",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+
+	"APPLOVIN_BANNER": "77a9e98624709e57",
+	"APPLOVIN_INTERSTITIAL": "efa4e89b9e54fb60",
+
+	"whichAds": 0
+
+
+}
