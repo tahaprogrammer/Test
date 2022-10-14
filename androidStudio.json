@@ -1,45 +1,9 @@
 {
-	
-	"data":[
-		
-		{
-		  "title":"Whatssap",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
-		},{
-		  "title":"Facebook",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s2.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.facebook.katana"
-		},{
-		  "title":"Instagram",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s3.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.instagram.android"
-		}
-	
-	],
+
+	"title": "Whatssap",
+	"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
+	"link": "https://play.google.com/store/apps/details?id=com.whatsapp",
 
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
-
-	"APP_KEY": "fc8ac9",
-	"BANNER_PLACEMENT": "DefaultBanner",
-	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-
-	"whichAds": 0,
-
-	"MoreApps": "h3116631",
-	"PrivacyPolicy": "com/",
-
-	"url": "https://www.storysaver.net/",
-	"button1": "Button 1",
-	"button2": "Button 2",
-
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
-	
-	"disableAds":false
-
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712"
 }
