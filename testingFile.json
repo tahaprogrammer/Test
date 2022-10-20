@@ -1,0 +1,15 @@
+{
+
+
+	"GetListTrainsAutocarResult": {
+		"head": {
+			"namespace": "Oncf.ma/DataContracts/2022/10/PDA/Gateway/v1",
+			"version": null,
+			"returnedLines": null,
+			"errorCode": "0",
+			"errorMessage": null
+		}
+
+	}
+
+}
