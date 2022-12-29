@@ -1,0 +1,32 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "facebook",
+
+        "banneradmb": "ca-app-pub-3940256099942544/6300978111",
+        "interadmob": "ca-app-pub-3940256099942544/1033173712",
+        "nativeadmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "bannerfb": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "interfb": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "nativefb": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "imagebanner": false,
+        "imgbannerimg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "imgbannerurl" : "https://www.google.com"
+		
+      },
+	  "BUTTTON_NAME" : "START" ,
+	  "BUTTON_URL" :"https://www.google.com/",
+	  
+    "whichPage": 0
+	  
+
+   
+
+       
+  }
+	
+}
