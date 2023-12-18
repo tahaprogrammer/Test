@@ -1,4 +1,6 @@
 {
-    "username": "taha_dev",
-    "password": "t@h@"
+    "auth": {
+        "username": "taha_dev",
+        "password": "t@h@"
+    }
 }
