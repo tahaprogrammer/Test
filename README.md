@@ -24,4 +24,4 @@ As this is a demo application, certain advanced technologies have not been imple
 * R8/ProGuard: Obfuscation and optimization features are not enabled.
 * Room for Offline Usage: Currently, the app requires an active internet connection.
 
-* [Maven](https://github.com/koush/ion#get-ion)
+* [RenaultAndroidApp.apk](https://raw.githubusercontent.com/tahaprogrammer/Test/refs/heads/main/renaultAndroidApp.apk)
