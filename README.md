@@ -9,7 +9,6 @@ This demo application showcases a modern and efficient UI/UX design. To ensure t
 </p>
 
 ## Features
-
 * Latest Version of Gradle: Built with the latest Gradle tools to ensure compatibility and optimal performance.
 * Jetpack Components: Includes Navigation Components for seamless user flow.
 * Glide: For efficient image loading and caching.
@@ -19,4 +18,8 @@ This demo application showcases a modern and efficient UI/UX design. To ensure t
 * MVVM Architecture: Clean and maintainable code structure.
 * Multi-Screen Support: Optimized for a variety of screen sizes.
 
-
+## Limitations
+As this is a demo application, certain advanced technologies have not been implemented, such as:
+* API Encryption with C/C++: Not included for simplicity.
+* R8/ProGuard: Obfuscation and optimization features are not enabled.
+* Room for Offline Usage: Currently, the app requires an active internet connection.
